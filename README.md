@@ -1,5 +1,5 @@
 ### Hi 👋
-### I'm currently workin on made a personal blog and you could contact me by email.
+### I'm currently working on made a personal blog and you could contact me by email.
 ### emailto:ruoglee@163.com
 
 <!--
