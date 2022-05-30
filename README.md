@@ -1,7 +1,7 @@
 ### Hi 👋
 ### I'm currently working on a personal blog and you could contact me by email.
 ### emailto:ruoglee@163.com
-
+### 2022/05/30 添加了国立交通大学的计算化学理论方法简介，仅作学术目的。
 <!--
 **LiRuogu/Liruogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
